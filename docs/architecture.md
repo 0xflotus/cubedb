@@ -136,7 +136,7 @@ Right now we just implement option b for simplicity
 
 * latch manager
 
-each partition has its latch managmer, in memory, and on the leader only
+each partition has its latch manager, in memory, and on the leader only
 
 
 ### write IO path
