@@ -27,7 +27,7 @@ document API: Create, Update, Upsert, Delete, Overwrite, Get, Search, Count, ...
 
 master, partition server, router
 
-orchestracted by Kubernetes
+orchestrated by Kubernetes
 
 ChubaoFS (replicated across three AZs) works as the underlying storage infrastructure
 
